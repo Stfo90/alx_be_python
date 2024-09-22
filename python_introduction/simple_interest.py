@@ -1,5 +1,5 @@
 # Define principle, rate, and time with values 1000, 0.05 and 3 respectively
-principle=  1000
+principle =  1000
 rate = 0.05
 time = 3
 
