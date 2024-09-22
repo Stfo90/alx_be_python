@@ -1,6 +1,6 @@
 # Define the variables
-number1 = 10
-number2 = 5
+number1 =10
+number2 =5
 
 # Calculate the sum, difference, and product
 sum_result = number1 + number2
