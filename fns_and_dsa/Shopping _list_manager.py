@@ -1,4 +1,4 @@
-#shopping_list_manager.py that implements a simple interface for managing a shopping list.
+
 
 def display_menu():
     print("Shopping List Manager")
