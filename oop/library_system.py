@@ -6,7 +6,9 @@ class Book:
     def __str__(self):
         return f"{self.title} by {self.author}"    
         
-
+book1 = Book("Book: Pride and Prejudice", "Jane Austen")
+print (book1)
+        
 
 class EBook(Book):
     def __init__(self, title, author, file_size ):
